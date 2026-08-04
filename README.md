@@ -1,5 +1,7 @@
 # turning-point-analysis
 
+[![CI](https://github.com/apricitea/turning-point-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/apricitea/turning-point-analysis/actions/workflows/ci.yml)
+
 Bull/bear market phase dating for IDX stocks, using a censored local-extrema
 algorithm in the style of Pagan & Sossounov (2003) — the standard approach in
 the finance literature for dating market cycles without relying on an
