@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it as below."
+type: software
+title: "Bull/bear phase dating for IDX equities via censored local extrema"
+authors:
+  - family-names: Nataputra
+    given-names: Alvin Christian
+    email: alvincnataputra@gmail.com
+    website: https://apricitea.github.io
+repository-code: "https://github.com/apricitea/turning-point-analysis"
+url: "https://apricitea.github.io"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-25"
+abstract: >-
+  A Pagan-Sossounov style censored local-extrema algorithm for dating market phases on Indonesian equities, with a test suite enforcing alternation, minimum duration and amplitude.
